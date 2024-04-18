@@ -1,0 +1,11 @@
+.content {
+    min-height: 90vh; /* Replace 100vh with your desired minimum height */
+    border: 1px solid #000; /* Optional: Add a border for visualization */
+}
+.footer {
+    min-height: 30vh; /* Replace 100vh with your desired minimum height */
+    border: 1px solid #000; /* Optional: Add a border for visualization */
+}
+.error {
+    color: red;
+}
